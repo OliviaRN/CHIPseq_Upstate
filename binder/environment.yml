@@ -1,0 +1,8 @@
+name: chipseq_environment_trial
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - epic2
+  - macs
+  - bioconductor-csaw
