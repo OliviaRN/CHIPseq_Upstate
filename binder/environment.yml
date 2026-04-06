@@ -1,0 +1,10 @@
+name: chipseq_environment_trial
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - epic2
+  - macs3
+  - bioconductor-csaw
+  - bioconductor-org.hs.eg.db
+  - bioconductor-TxDb.Hsapiens.UCSC.hg38.knownGene
