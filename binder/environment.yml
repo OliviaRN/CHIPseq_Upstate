@@ -4,5 +4,5 @@ channels:
   - bioconda
 dependencies:
   - epic2
-  - macs
+  - macs3
   - bioconductor-csaw
