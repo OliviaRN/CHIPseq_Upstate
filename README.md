@@ -13,8 +13,11 @@ ChIP-sequencing, also known as ChIP-seq, is a method used to analyze protein int
 
 [epic2 0.0.52](https://anaconda.org/channels/bioconda/packages/epic2/overview)
 
+Search <conda-forge epic2>,  then install epic 
+conda install bioconda::epic2 -y
+
 [R version 4.0.4](https://www.r-project.org/) 
 
 [csaw 1.24.3](https://anaconda.org/channels/bioconda/packages/bioconductor-csaw/overview) and its dependencies
  
-conda install bioconda::epic2 -y
+
