@@ -7,6 +7,8 @@ ChIP-sequencing, also known as ChIP-seq, is a method used to analyze protein int
 
 [CHIPseq](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/chipseq_tutorials.html#chip-seq)
 
+[click here](https://mybinder.org/v2/gh/OliviaRN/CHIPseq_Upstate/HEAD)
+
 # Requirements
 
 [MACS 3.0.0a6](https://pypi.org/project/MACS3/)
