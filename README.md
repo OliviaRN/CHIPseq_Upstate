@@ -7,12 +7,14 @@ ChIP-sequencing, also known as ChIP-seq, is a method used to analyze protein int
 
 [CHIPseq](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/chipseq_tutorials.html#chip-seq)
 
-#Requirements
+# Requirements
 
 [MACS 3.0.0a6](https://pypi.org/project/MACS3/)
 
-epic2 0.0.52
-R version 4.0.4 (2021-02-15)
-csaw 1.24.3 and its dependencies
+[epic2 0.0.52](https://anaconda.org/channels/bioconda/packages/epic2/overview)
 
+[R version 4.0.4](https://www.r-project.org/) 
+
+[csaw 1.24.3](https://anaconda.org/channels/bioconda/packages/bioconductor-csaw/overview) and its dependencies
+ 
 conda install bioconda::epic2 -y
