@@ -9,7 +9,8 @@ ChIP-sequencing, also known as ChIP-seq, is a method used to analyze protein int
 
 #Requirements
 
-MACS 3.0.0a6
+[MACS 3.0.0a6](https://pypi.org/project/MACS3/)
+
 epic2 0.0.52
 R version 4.0.4 (2021-02-15)
 csaw 1.24.3 and its dependencies
